@@ -123,4 +123,6 @@ for num, data in enumerate(test_data[:12]):
      plt.title(str_label)
      y.axes.get_xaxis().set_visible(False)
      y.axes.get_yaxis().set_visible(False)
+print('first 12 data')
 plt.show()
+
